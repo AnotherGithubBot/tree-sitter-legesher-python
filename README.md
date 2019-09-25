@@ -3,7 +3,7 @@
 
 <h1 align="center">Legesher's Tree-Sitter-Python</h1>
 <blockquote align="center">💻 Code in Python 🐍using your native written ✏️language.</blockquote>
-<p align="center">Programming with <b>Legesher</b>'s dev tools empowers any developer to create without losing the art of innovation 💡, creativity 🎨, or collaboration 🤝 in translation. </p>
+<p align="center">Programming with <b>Legesher</b>'s dev tools empowers any developer to create without losing the art of innovation 💡, creativity 🎨, or collaboration 🤝 in translation. :) </p>
 
 <!-- DEVELOPMENT BADGES -->
 <p align="center" style="margin-bottom: 5px; margin-top: 5px;">
